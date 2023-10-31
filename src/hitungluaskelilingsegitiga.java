@@ -29,6 +29,8 @@ public class hitungluaskelilingsegitiga {
      * @param args Argumen baris perintah.
      */
     public static void main(String[] args) {
+
+        System.out.println("UJA KONTOL");
         // Contoh penggunaan
         double alas = 5;
         double tinggi = 8;
